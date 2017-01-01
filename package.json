@@ -6,6 +6,15 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avoronkin/log-dog.git"
+  },
+  "homepage": "https://github.com/avoronkin/log-dog",
+  "keywords": [
+    "log",
+    "dog"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
