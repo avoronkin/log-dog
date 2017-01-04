@@ -1,6 +1,6 @@
 {
   "name": "log-dog",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "filter-ware": "^1.1.0",
+    "filter-ware": "^2.1.1",
     "merge-descriptors": "^1.0.1"
   },
   "devDependencies": {
